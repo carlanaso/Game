@@ -1,7 +1,7 @@
-*Hunt the Wumpus Game* 
+#**Hunt the Wumpus Game**
 - This is an assignment game from CS162 intro to computer Science
 
-This game is called Hunt the Wumpus.
+This game is called ***Hunt the Wumpus.***
 
 At the start of the game, the player is placed is randomly placed in a room in a cave grid. The cave grid is consisted of rooms. Each room can contain one or no event. The following are the event types:
 Wumpus
