@@ -1,4 +1,4 @@
-#**Hunt the Wumpus Game**
+# Heading1 **Hunt the Wumpus Game**
 - This is an assignment game from CS162 intro to computer Science
 
 This game is called ***Hunt the Wumpus.***
